@@ -1,0 +1,11 @@
+local L0_1, L1_1
+L0_1 = false
+NotSingleTargetSpell = L0_1
+L0_1 = false
+DoesntTriggerSpellCasts = L0_1
+L0_1 = "Seraphine_E1.EllipsisMage.dds"
+BuffTextureName = L0_1
+L0_1 = "SeraphineERoot"
+BuffName = L0_1
+L0_1 = "game_floatingtext_Snared"
+PopupMessage1 = L0_1

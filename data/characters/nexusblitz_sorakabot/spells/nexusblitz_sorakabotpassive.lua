@@ -1,0 +1,11 @@
+local L0_1, L1_1
+L0_1 = "ASSETS/Characters/NEXUSBLITZ_SorakaBot/HUD/Icons2D/NEXUSBLITZ_SorakaBot_Passive.dds"
+BuffTextureName = L0_1
+L0_1 = "NEXUSBLITZ_SorakaBotPassive"
+BuffName = L0_1
+L0_1 = "r:NEXUSBLITZ_SorakaBot_passive_speed"
+AutoBuffActivateEffect = L0_1
+L0_1 = {}
+L1_1 = "NEXUSBLITZ_SorakaBotSkin04"
+L0_1[1] = L1_1
+SpellFXOverrideSkins = L0_1

@@ -1,0 +1,25 @@
+local L0_1, L1_1, L2_1, L3_1
+L0_1 = true
+NotSingleTargetSpell = L0_1
+L0_1 = false
+DoesntTriggerSpellCasts = L0_1
+L0_1 = "ASSETS/Characters/Fiddlesticks/HUD/Icons2D/Fiddlesticks_Crowstorm.dds"
+BuffTextureName = L0_1
+L0_1 = {}
+L1_1 = 150
+L2_1 = 120
+L3_1 = 100
+L0_1[1] = L1_1
+L0_1[2] = L2_1
+L0_1[3] = L3_1
+AutoCooldownByLevel = L0_1
+L0_1 = {}
+L1_1 = "SurprisePartyFiddlesticks"
+L2_1 = "CandyCaneFiddlesticks"
+L3_1 = "FiddlesticksSkin08"
+L0_1[1] = L1_1
+L0_1[2] = L2_1
+L0_1[3] = L3_1
+SpellFXOverrideSkins = L0_1
+L0_1 = true
+IsDamagingSpell = L0_1

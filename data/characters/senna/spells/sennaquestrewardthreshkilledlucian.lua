@@ -1,0 +1,9 @@
+local L0_1, L1_1
+L0_1 = "ASSETS/Characters/Senna/HUD/Icons2D/Senna_Quest_Lucian.Senna.dds"
+BuffTextureName = L0_1
+L0_1 = "SennaQuestRewardThreshKilledLucian"
+BuffName = L0_1
+L0_1 = true
+PersistsThroughDeath = L0_1
+L0_1 = true
+NonDispellable = L0_1

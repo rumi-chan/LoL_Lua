@@ -1,0 +1,9 @@
+local L0_1, L1_1
+L0_1 = "48thSlave_Tattoo.dds"
+BuffTextureName = L0_1
+L0_1 = "CrestoftheAncientGolemAura"
+BuffName = L0_1
+L0_1 = "S5_Blue_Aura.troy"
+AutoBuffActivateEffect = L0_1
+L0_1 = true
+NonDispellable = L0_1

@@ -1,0 +1,11 @@
+local L0_1, L1_1
+L0_1 = "ASSETS/Characters/Jax/HUD/Icons2D/JaxR.JaxUpdate.dds"
+BuffTextureName = L0_1
+L0_1 = "JaxRPassiveAttack"
+BuffName = L0_1
+L0_1 = true
+IsDeathRecapSource = L0_1
+L0_1 = {}
+L1_1 = "JaxSkin08"
+L0_1[1] = L1_1
+SpellFXOverrideSkins = L0_1

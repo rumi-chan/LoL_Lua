@@ -1,0 +1,17 @@
+local L0_1, L1_1
+L0_1 = false
+NotSingleTargetSpell = L0_1
+L0_1 = false
+DoesntTriggerSpellCasts = L0_1
+L0_1 = "ASSETS/Spells/Icons2D/Chronokeeper_Timestop.dds"
+BuffTextureName = L0_1
+L0_1 = "Slow"
+BuffName = L0_1
+L0_1 = "r:Zac_R_slow_tar"
+AutoBuffActivateEffect = L0_1
+L0_1 = "game_floatingtext_Slowed"
+PopupMessage1 = L0_1
+L0_1 = true
+NonDispellable = L0_1
+L0_1 = true
+IsDamagingSpell = L0_1

@@ -1,0 +1,15 @@
+local L0_1, L1_1
+L0_1 = "ASSETS/Characters/Vayne/HUD/Icons2D/Vayne_Q.dds"
+BuffTextureName = L0_1
+L0_1 = "VayneTumble"
+BuffName = L0_1
+L0_1 = "r:Vayne_Q_buf"
+AutoBuffActivateEffect = L0_1
+L0_1 = "l_hand"
+AutoBuffActivateAttachBoneName = L0_1
+L0_1 = "r:Vayne_Q_buf"
+AutoBuffActivateEffect2 = L0_1
+L0_1 = "r_hand"
+AutoBuffActivateAttachBoneName2 = L0_1
+L0_1 = "r:Vayne_Q_cas"
+AutoBuffActivateEffect3 = L0_1

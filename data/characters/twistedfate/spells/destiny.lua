@@ -1,0 +1,23 @@
+local L0_1, L1_1, L2_1, L3_1
+L0_1 = true
+NotSingleTargetSpell = L0_1
+L0_1 = false
+DoesntTriggerSpellCasts = L0_1
+L0_1 = "ASSETS/Characters/TwistedFate/HUD/Icons2D/Destiny_temp.dds"
+BuffTextureName = L0_1
+L0_1 = "Destiny"
+BuffName = L0_1
+L0_1 = 0.75
+SpellDamageRatio = L0_1
+L0_1 = {}
+L1_1 = 150
+L2_1 = 135
+L3_1 = 120
+L0_1[1] = L1_1
+L0_1[2] = L2_1
+L0_1[3] = L3_1
+AutoCooldownByLevel = L0_1
+L0_1 = {}
+L1_1 = "UnderworldTwistedFate"
+L0_1[1] = L1_1
+SpellFXOverrideSkins = L0_1

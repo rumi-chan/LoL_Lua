@@ -1,0 +1,13 @@
+local L0_1, L1_1
+L0_1 = "ASSETS/Characters/Rumble/HUD/Icons2D/Rumble_JunkyardTitan3.dds"
+BuffTextureName = L0_1
+L0_1 = "RumbleOverheat"
+BuffName = L0_1
+L0_1 = {}
+L1_1 = "RumbleSkin03"
+L0_1[1] = L1_1
+SpellFXOverrideSkins = L0_1
+L0_1 = {}
+L1_1 = "RumbleSkin03"
+L0_1[1] = L1_1
+SpellVOOverrideSkins = L0_1

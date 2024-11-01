@@ -1,0 +1,15 @@
+local L0_1, L1_1
+L0_1 = true
+NotSingleTargetSpell = L0_1
+L0_1 = true
+DoesntBreakShields = L0_1
+L0_1 = false
+DoesntTriggerSpellCasts = L0_1
+L0_1 = "ASSETS/Characters/Akali/HUD/Icons2D/Akali_P.dds"
+BuffTextureName = L0_1
+L0_1 = "AkaliP"
+BuffName = L0_1
+L0_1 = true
+IsDeathRecapSource = L0_1
+L0_1 = false
+IsDamagingSpell = L0_1

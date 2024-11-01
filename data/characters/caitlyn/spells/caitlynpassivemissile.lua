@@ -1,0 +1,11 @@
+local L0_1, L1_1
+L0_1 = true
+DoesntBreakShields = L0_1
+L0_1 = true
+DoesntTriggerSpellCasts = L0_1
+L0_1 = "ASSETS/Characters/Caitlyn/HUD/Icons2D/CaitlynP.dds"
+BuffTextureName = L0_1
+L0_1 = {}
+L1_1 = "CaitlynSkin06"
+L0_1[1] = L1_1
+SpellFXOverrideSkins = L0_1

@@ -1,0 +1,9 @@
+local L0_1, L1_1
+L0_1 = "ASSETS/Characters/Heimerdinger/HUD/Icons2D/Heimerdinger_TechmaturgicalRepairBots.dds"
+BuffTextureName = L0_1
+L0_1 = "HeimerPassive"
+BuffName = L0_1
+L0_1 = "Powerfist_buf.troy"
+AutoBuffActivateEffect = L0_1
+L0_1 = "C_BUFFBONE_GLB_HEAD_LOC"
+AutoBuffActivateAttachBoneName = L0_1

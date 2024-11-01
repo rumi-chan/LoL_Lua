@@ -1,0 +1,11 @@
+local L0_1, L1_1
+L0_1 = true
+DoesntTriggerSpellCasts = L0_1
+L0_1 = true
+CastingBreaksStealth = L0_1
+L0_1 = 1
+ChannelDuration = L0_1
+L0_1 = "ASSETS/Characters/Strawberry_Briar/HUD/Icons2D/Strawberry_BriarE.dds"
+BuffTextureName = L0_1
+L0_1 = "Strawberry_BriarEDR"
+BuffName = L0_1

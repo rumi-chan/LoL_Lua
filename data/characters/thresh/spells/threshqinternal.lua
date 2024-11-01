@@ -1,0 +1,13 @@
+local L0_1, L1_1
+L0_1 = true
+NotSingleTargetSpell = L0_1
+L0_1 = false
+DoesntTriggerSpellCasts = L0_1
+L0_1 = "ASSETS/Characters/Thresh/HUD/Icons2D/Thresh_Q.dds"
+BuffTextureName = L0_1
+L0_1 = "ThreshQ"
+BuffName = L0_1
+L0_1 = "game_floatingtext_Stunned"
+PopupMessage1 = L0_1
+L0_1 = true
+IsDamagingSpell = L0_1

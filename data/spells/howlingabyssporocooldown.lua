@@ -1,0 +1,9 @@
+local L0_1, L1_1
+L0_1 = "Odin_SpeedShrine.dds"
+BuffTextureName = L0_1
+L0_1 = "TT_SpeedShrine_Buff"
+BuffName = L0_1
+L0_1 = "tt_speedshrine_buf.troy"
+AutoBuffActivateEffect = L0_1
+L0_1 = true
+NonDispellable = L0_1

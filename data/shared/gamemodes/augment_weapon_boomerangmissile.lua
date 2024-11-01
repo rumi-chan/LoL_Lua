@@ -1,0 +1,9 @@
+local L0_1, L1_1
+L0_1 = "Augment_Weapon_Boomerang_Ahri_OrbofDeception.troy"
+AutoBuffActivateEffect = L0_1
+L0_1 = "root"
+AutoBuffActivateAttachBoneName = L0_1
+L0_1 = {}
+L1_1 = "Augment_Weapon_BoomerangSkin04"
+L0_1[1] = L1_1
+SpellFXOverrideSkins = L0_1

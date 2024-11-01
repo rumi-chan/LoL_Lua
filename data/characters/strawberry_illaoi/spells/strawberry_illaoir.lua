@@ -1,0 +1,13 @@
+local L0_1, L1_1
+L0_1 = "ASSETS/Characters/Strawberry_Illaoi/HUD/Icons2D/Strawberry_Illaoi_R.dds"
+BuffTextureName = L0_1
+L0_1 = "Strawberry_IllaoiR"
+BuffName = L0_1
+L0_1 = {}
+L1_1 = "Strawberry_IllaoiSkin01"
+L0_1[1] = L1_1
+SpellFXOverrideSkins = L0_1
+L0_1 = {}
+L1_1 = "Strawberry_IllaoiSkin01"
+L0_1[1] = L1_1
+SpellVOOverrideSkins = L0_1

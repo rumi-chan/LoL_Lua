@@ -1,0 +1,15 @@
+local L0_1, L1_1
+L0_1 = false
+NotSingleTargetSpell = L0_1
+L0_1 = false
+DoesntTriggerSpellCasts = L0_1
+L0_1 = "ASSETS/Characters/TFT_Kassadin/HUD/Icons2D/TFT_Kassadin_Q.dds"
+BuffTextureName = L0_1
+L0_1 = "TFT_Kassadin_NullLance"
+BuffName = L0_1
+L0_1 = {}
+L1_1 = "TFT_KassadinSkin05"
+L0_1[1] = L1_1
+SpellFXOverrideSkins = L0_1
+L0_1 = true
+IsDamagingSpell = L0_1

@@ -1,0 +1,9 @@
+local L0_1, L1_1
+L0_1 = "ASSETS/Characters/Garen/HUD/Icons2D/Garen_PerseveranceCD.dds"
+BuffTextureName = L0_1
+L0_1 = "GarenPassiveCooldown"
+BuffName = L0_1
+L0_1 = true
+PersistsThroughDeath = L0_1
+L0_1 = true
+NonDispellable = L0_1

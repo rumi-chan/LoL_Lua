@@ -1,0 +1,11 @@
+local L0_1, L1_1
+L0_1 = "Dragon_Debuff.dds"
+BuffTextureName = L0_1
+L0_1 = "DragonBurning"
+BuffName = L0_1
+L0_1 = "SRU_dragon_BA1_tar.troy"
+AutoBuffActivateEffect = L0_1
+L0_1 = true
+IsDeathRecapSource = L0_1
+L0_1 = "game_floatingtext_Slowed"
+PopupMessage1 = L0_1

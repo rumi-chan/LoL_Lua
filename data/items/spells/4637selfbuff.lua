@@ -1,0 +1,9 @@
+local L0_1, L1_1
+L0_1 = "4637_Mage_T3_DemonicEmbrace.dds"
+BuffTextureName = L0_1
+L0_1 = "4637SelfBuff"
+BuffName = L0_1
+L0_1 = 2
+OnPreDamagePriority = L0_1
+L0_1 = true
+DoOnPreDamageInExpirationOrder = L0_1

@@ -1,0 +1,19 @@
+local L0_1, L1_1, L2_1
+L0_1 = "Corki_MissileBarrage.dds"
+BuffTextureName = L0_1
+L0_1 = "MissileBarrageCheck"
+BuffName = L0_1
+L0_1 = true
+PersistsThroughDeath = L0_1
+L0_1 = true
+NonDispellable = L0_1
+L0_1 = {}
+L1_1 = "KhazixDroid"
+L2_1 = "KhazixSkin02"
+L0_1[1] = L1_1
+L0_1[2] = L2_1
+SpellFXOverrideSkins = L0_1
+L0_1 = {}
+L1_1 = "KhazixDroid"
+L0_1[1] = L1_1
+SpellVOOverrideSkins = L0_1

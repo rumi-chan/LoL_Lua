@@ -1,0 +1,13 @@
+local L0_1, L1_1
+L0_1 = true
+NotSingleTargetSpell = L0_1
+L0_1 = true
+DoesntBreakShields = L0_1
+L0_1 = true
+CastingBreaksStealth = L0_1
+L0_1 = "ASSETS/Characters/Aurora/HUD/Icons2D/AuroraW.Aurora.dds"
+BuffTextureName = L0_1
+L0_1 = "AuroraW"
+BuffName = L0_1
+L0_1 = true
+IsDamagingSpell = L0_1

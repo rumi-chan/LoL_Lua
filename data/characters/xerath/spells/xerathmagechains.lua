@@ -1,0 +1,23 @@
+local L0_1, L1_1, L2_1
+L0_1 = false
+NotSingleTargetSpell = L0_1
+L0_1 = false
+DoesntTriggerSpellCasts = L0_1
+L0_1 = "ASSETS/Characters/Xerath/HUD/Icons2D/Xerath_E1.dds"
+BuffTextureName = L0_1
+L0_1 = "XerathMageChains"
+BuffName = L0_1
+L0_1 = "LOC_Stun.troy"
+AutoBuffActivateEffect = L0_1
+L0_1 = "C_Buffbone_Glb_Center_Loc"
+AutoBuffActivateAttachBoneName = L0_1
+L0_1 = 1
+SpellDamageRatio = L0_1
+L0_1 = {}
+L1_1 = "IronForgeXerath"
+L2_1 = "XerathSkin04"
+L0_1[1] = L1_1
+L0_1[2] = L2_1
+SpellFXOverrideSkins = L0_1
+L0_1 = true
+IsDamagingSpell = L0_1

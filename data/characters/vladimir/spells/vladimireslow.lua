@@ -1,0 +1,9 @@
+local L0_1, L1_1
+L0_1 = "ASSETS/Characters/Vladimir/HUD/Icons2D/VladimirE.dds"
+BuffTextureName = L0_1
+L0_1 = "VladimirESlow"
+BuffName = L0_1
+L0_1 = "r:Vladimir_Global_Slow"
+AutoBuffActivateEffect = L0_1
+L0_1 = true
+IsDamagingSpell = L0_1

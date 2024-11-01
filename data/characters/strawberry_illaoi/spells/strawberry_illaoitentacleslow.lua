@@ -1,0 +1,9 @@
+local L0_1, L1_1
+L0_1 = "ASSETS/Characters/Strawberry_Illaoi/HUD/Icons2D/Strawberry_Illaoi_E.dds"
+BuffTextureName = L0_1
+L0_1 = "Strawberry_IllaoiTentacleSlow"
+BuffName = L0_1
+L0_1 = "GLOBAL_SLOW.TROY"
+AutoBuffActivateEffect = L0_1
+L0_1 = "game_floatingtext_Slowed"
+PopupMessage1 = L0_1

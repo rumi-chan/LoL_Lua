@@ -1,0 +1,13 @@
+local L0_1, L1_1
+L0_1 = true
+DoesntBreakShields = L0_1
+L0_1 = "Strawberry_Aurora_OrbofDeception.troy"
+AutoBuffActivateEffect = L0_1
+L0_1 = "root"
+AutoBuffActivateAttachBoneName = L0_1
+L0_1 = true
+PersistsThroughDeath = L0_1
+L0_1 = {}
+L1_1 = "Strawberry_AuroraSkin04"
+L0_1[1] = L1_1
+SpellFXOverrideSkins = L0_1

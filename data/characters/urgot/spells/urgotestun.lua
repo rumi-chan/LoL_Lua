@@ -1,0 +1,11 @@
+local L0_1, L1_1
+L0_1 = true
+DoesntBreakShields = L0_1
+L0_1 = true
+DoesntTriggerSpellCasts = L0_1
+L0_1 = "ASSETS/Characters/Urgot/HUD/Icons2D/Urgot_E.dds"
+BuffTextureName = L0_1
+L0_1 = "UrgotEStun"
+BuffName = L0_1
+L0_1 = "game_floatingtext_Stunned"
+PopupMessage1 = L0_1

@@ -1,0 +1,15 @@
+local L0_1, L1_1
+L0_1 = false
+NotSingleTargetSpell = L0_1
+L0_1 = false
+DoesntTriggerSpellCasts = L0_1
+L0_1 = "ASSETS/Characters/XinZhao/HUD/Icons2D/XenZhao_BattleCry.dds"
+BuffTextureName = L0_1
+L0_1 = "XinZhaoP"
+BuffName = L0_1
+L0_1 = "Determination"
+DisplayName = L0_1
+L0_1 = true
+PersistsThroughDeath = L0_1
+L0_1 = true
+NonDispellable = L0_1

@@ -1,0 +1,15 @@
+local L0_1, L1_1
+L0_1 = true
+NotSingleTargetSpell = L0_1
+L0_1 = true
+DoesntBreakShields = L0_1
+L0_1 = false
+DoesntTriggerSpellCasts = L0_1
+L0_1 = true
+CastingBreaksStealth = L0_1
+L0_1 = "ASSETS/Characters/TFT4_Shyvana/HUD/Icons2D/TFT4_ShyvanaDragonsDescent.dds"
+BuffTextureName = L0_1
+L0_1 = "TFT4_ShyvanaTransform"
+BuffName = L0_1
+L0_1 = true
+IsDamagingSpell = L0_1

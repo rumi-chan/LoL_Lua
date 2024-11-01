@@ -1,0 +1,11 @@
+local L0_1, L1_1
+L0_1 = "ASSETS/Characters/Strawberry_Jinx/HUD/Icons2D/Strawberry_Jinx_Q2.dds"
+BuffTextureName = L0_1
+L0_1 = "Strawberry_JinxQIcon"
+BuffName = L0_1
+L0_1 = true
+PersistsThroughDeath = L0_1
+L0_1 = {}
+L1_1 = "Strawberry_JinxSkin01"
+L0_1[1] = L1_1
+SpellFXOverrideSkins = L0_1

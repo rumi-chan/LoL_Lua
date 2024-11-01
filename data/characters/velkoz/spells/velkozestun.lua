@@ -1,0 +1,23 @@
+local L0_1, L1_1, L2_1
+L0_1 = false
+NotSingleTargetSpell = L0_1
+L0_1 = false
+DoesntTriggerSpellCasts = L0_1
+L0_1 = "ASSETS/Characters/Velkoz/HUD/Icons2D/Velkoz_E.dds"
+BuffTextureName = L0_1
+L0_1 = "VelkozEStun"
+BuffName = L0_1
+L0_1 = "LOC_Stun.troy"
+AutoBuffActivateEffect = L0_1
+L0_1 = "C_Buffbone_Glb_Center_Loc"
+AutoBuffActivateAttachBoneName = L0_1
+L0_1 = "game_floatingtext_Knockup"
+PopupMessage1 = L0_1
+L0_1 = {}
+L1_1 = "VelkozSkin01"
+L2_1 = "VelkozSkin02"
+L0_1[1] = L1_1
+L0_1[2] = L2_1
+SpellFXOverrideSkins = L0_1
+L0_1 = true
+IsDamagingSpell = L0_1

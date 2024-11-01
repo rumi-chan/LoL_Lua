@@ -1,0 +1,9 @@
+local L0_1, L1_1
+L0_1 = "Chronokeeper_Timestop.dds"
+BuffTextureName = L0_1
+L0_1 = "EliseSpiderQSlow"
+BuffName = L0_1
+L0_1 = "r:Global_Slow_BV2"
+AutoBuffActivateEffect = L0_1
+L0_1 = "game_floatingtext_Slowed"
+PopupMessage1 = L0_1

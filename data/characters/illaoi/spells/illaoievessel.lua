@@ -1,0 +1,9 @@
+local L0_1, L1_1
+L0_1 = "ASSETS/Characters/Illaoi/HUD/Icons2D/Illaoi_E_Debuff.dds"
+BuffTextureName = L0_1
+L0_1 = "IllaoiEVessel"
+BuffName = L0_1
+L0_1 = {}
+L1_1 = "IllaoiSkin01"
+L0_1[1] = L1_1
+SpellFXOverrideSkins = L0_1

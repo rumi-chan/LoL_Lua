@@ -1,0 +1,11 @@
+local L0_1, L1_1
+L0_1 = true
+DoesntBreakShields = L0_1
+L0_1 = true
+DoesntTriggerSpellCasts = L0_1
+L0_1 = "ASSETS/Spells/Icons2D/Cardmaster_gold.dds"
+BuffTextureName = L0_1
+L0_1 = "Pick_A_Card_Gold"
+BuffName = L0_1
+L0_1 = "r:TwistedFate_W_SelectYellow"
+AutoBuffActivateEffect = L0_1

@@ -1,0 +1,17 @@
+local L0_1, L1_1
+L0_1 = false
+NotSingleTargetSpell = L0_1
+L0_1 = false
+DoesntBreakShields = L0_1
+L0_1 = true
+DoesntTriggerSpellCasts = L0_1
+L0_1 = true
+CastingBreaksStealth = L0_1
+L0_1 = "3069_Sword_of_Light_and_Shadow.dds"
+BuffTextureName = L0_1
+L0_1 = "Mourning"
+BuffName = L0_1
+L0_1 = "bleeding_GLB2_tar.troy"
+AutoBuffActivateEffect = L0_1
+L0_1 = false
+IsDamagingSpell = L0_1

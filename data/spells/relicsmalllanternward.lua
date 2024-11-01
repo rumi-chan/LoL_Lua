@@ -1,0 +1,13 @@
+local L0_1, L1_1
+L0_1 = true
+NotSingleTargetSpell = L0_1
+L0_1 = true
+DoesntTriggerSpellCasts = L0_1
+L0_1 = "1020_Glowing_Orb.dds"
+BuffTextureName = L0_1
+L0_1 = "SightWard"
+BuffName = L0_1
+L0_1 = "Global_Trinket_MiniYellow.troy"
+AutoBuffActivateEffect = L0_1
+L0_1 = "Ward_Sight_Idle.troy"
+AutoBuffActivateEffect2 = L0_1

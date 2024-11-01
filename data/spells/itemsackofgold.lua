@@ -1,0 +1,13 @@
+local L0_1, L1_1
+L0_1 = true
+NotSingleTargetSpell = L0_1
+L0_1 = true
+DoesntTriggerSpellCasts = L0_1
+L0_1 = "2009_Mini_Pot.dds"
+BuffTextureName = L0_1
+L0_1 = "ItemMiniRegenPotion"
+BuffName = L0_1
+L0_1 = "Global_Item_HealthPotion.troy"
+AutoBuffActivateEffect = L0_1
+L0_1 = "Buffbone_Glb_Ground_Loc"
+AutoBuffActivateAttachBoneName = L0_1

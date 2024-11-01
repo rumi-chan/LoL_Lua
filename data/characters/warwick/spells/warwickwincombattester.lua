@@ -1,0 +1,11 @@
+local L0_1, L1_1
+L0_1 = true
+NotSingleTargetSpell = L0_1
+L0_1 = true
+DoesntTriggerSpellCasts = L0_1
+L0_1 = "ASSETS/Characters/Warwick/HUD/Icons2D/Wolfman_FrenziedStrikes.dds"
+BuffTextureName = L0_1
+L0_1 = "WarwickWHuntersMarkPackMember"
+BuffName = L0_1
+L0_1 = true
+PersistsThroughDeath = L0_1

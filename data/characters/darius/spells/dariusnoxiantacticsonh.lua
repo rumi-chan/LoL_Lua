@@ -1,0 +1,23 @@
+local L0_1, L1_1, L2_1
+L0_1 = true
+NotSingleTargetSpell = L0_1
+L0_1 = false
+DoesntTriggerSpellCasts = L0_1
+L0_1 = "ASSETS/Characters/Darius/HUD/Icons2D/Darius_Icon_Hamstring.dds"
+BuffTextureName = L0_1
+L0_1 = "DariusNoxianTacticsActive"
+BuffName = L0_1
+L0_1 = "r:darius_W_weapon_03"
+AutoBuffActivateEffect3 = L0_1
+L0_1 = true
+IsDeathRecapSource = L0_1
+L0_1 = {}
+L1_1 = "Darius_ZaunKnight"
+L2_1 = "DariusSkin04"
+L0_1[1] = L1_1
+L0_1[2] = L2_1
+SpellFXOverrideSkins = L0_1
+L0_1 = {}
+L1_1 = "DariusSkin04"
+L0_1[1] = L1_1
+SpellVOOverrideSkins = L0_1

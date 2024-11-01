@@ -1,0 +1,11 @@
+local L0_1, L1_1
+L0_1 = "ASSETS/Characters/Karthus/HUD/Icons2D/Karthus_Passive.dds"
+BuffTextureName = L0_1
+L0_1 = "Death_Defied"
+BuffName = L0_1
+L0_1 = true
+PersistsThroughDeath = L0_1
+L0_1 = true
+NonDispellable = L0_1
+L0_1 = 2
+DeathEventType = L0_1

@@ -1,0 +1,15 @@
+local L0_1, L1_1
+L0_1 = false
+NotSingleTargetSpell = L0_1
+L0_1 = true
+DoesntTriggerSpellCasts = L0_1
+L0_1 = "TFT_FizzMarinerDoom.dds"
+BuffTextureName = L0_1
+L0_1 = "TFT_FizzRCling"
+BuffName = L0_1
+L0_1 = {}
+L1_1 = "TFT_FizzSkin04"
+L0_1[1] = L1_1
+SpellFXOverrideSkins = L0_1
+L0_1 = true
+IsDamagingSpell = L0_1

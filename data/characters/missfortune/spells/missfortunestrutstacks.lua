@@ -1,0 +1,9 @@
+local L0_1, L1_1
+L0_1 = "ASSETS/Characters/MissFortune/HUD/Icons2D/MissFortune_Passive.dds"
+BuffTextureName = L0_1
+L0_1 = "MissFortuneStrutStacks"
+BuffName = L0_1
+L0_1 = {}
+L1_1 = "MissFortuneSkin07"
+L0_1[1] = L1_1
+SpellFXOverrideSkins = L0_1

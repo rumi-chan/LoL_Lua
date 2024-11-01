@@ -1,0 +1,15 @@
+local L0_1, L1_1
+L0_1 = true
+NotSingleTargetSpell = L0_1
+L0_1 = true
+DoesntTriggerSpellCasts = L0_1
+L0_1 = "Wolfman_Bloodscent.dds"
+BuffTextureName = L0_1
+L0_1 = "BloodScentSelfBuff"
+BuffName = L0_1
+L0_1 = {}
+L1_1 = "HyenaWarwick"
+L0_1[1] = L1_1
+SpellVOOverrideSkins = L0_1
+L0_1 = true
+TriggersSpellCasts = L0_1

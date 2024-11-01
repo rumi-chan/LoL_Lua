@@ -1,0 +1,15 @@
+local L0_1, L1_1
+L0_1 = "ASSETS/Characters/Aurora/HUD/Icons2D/AuroraQ.Aurora.dds"
+BuffTextureName = L0_1
+L0_1 = "AuroraQ"
+BuffName = L0_1
+L0_1 = "Aurora_OrbofDeception.troy"
+AutoBuffActivateEffect = L0_1
+L0_1 = "root"
+AutoBuffActivateAttachBoneName = L0_1
+L0_1 = true
+PersistsThroughDeath = L0_1
+L0_1 = {}
+L1_1 = "AuroraSkin04"
+L0_1[1] = L1_1
+SpellFXOverrideSkins = L0_1

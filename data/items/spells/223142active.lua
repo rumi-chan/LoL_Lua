@@ -1,0 +1,15 @@
+local L0_1, L1_1
+L0_1 = true
+DoesntTriggerSpellCasts = L0_1
+L0_1 = "ASSETS/Items/Icons2D/3142_Assassin_T3_YoumuusGhostblade.dds"
+BuffTextureName = L0_1
+L0_1 = "SpectralFury"
+BuffName = L0_1
+L0_1 = "spectral_fury_activate.troy"
+AutoBuffActivateEffect = L0_1
+L0_1 = "spectral_fury_activate_speed.troy"
+AutoBuffActivateEffect3 = L0_1
+L0_1 = "root"
+AutoBuffActivateAttachBoneName3 = L0_1
+L0_1 = true
+Nondispellable = L0_1

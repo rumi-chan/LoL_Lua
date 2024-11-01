@@ -1,0 +1,21 @@
+local L0_1, L1_1, L2_1
+L0_1 = false
+NotSingleTargetSpell = L0_1
+L0_1 = false
+DoesntTriggerSpellCasts = L0_1
+L0_1 = "ASSETS/Characters/Tristana/HUD/Icons2D/UltBook_Tristana_R.dds"
+BuffTextureName = L0_1
+L0_1 = "UltBook_TristanaR"
+BuffName = L0_1
+L0_1 = 1
+SpellDamageRatio = L0_1
+L0_1 = {}
+L1_1 = "UltBook_Tristana_R_Tristana_Skin03"
+L2_1 = "UltBook_Tristana_R_Tristana_Skin06"
+L0_1[1] = L1_1
+L0_1[2] = L2_1
+SpellFXOverrideSkins = L0_1
+L0_1 = true
+IsDamagingSpell = L0_1
+L0_1 = true
+TriggersSpellCasts = L0_1

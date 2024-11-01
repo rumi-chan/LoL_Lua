@@ -1,0 +1,13 @@
+local L0_1, L1_1
+L0_1 = "ASSETS/Characters/Kindred/HUD/Icons2D/Kindred_Q.dds"
+BuffTextureName = L0_1
+L0_1 = "KindredQASBuff"
+BuffName = L0_1
+L0_1 = "r:Kindred_Q_AS_Buf"
+AutoBuffActivateEffect3 = L0_1
+L0_1 = "L_BUFFBONE_GLB_HAND_LOC"
+AutoBuffActivateAttachBoneName3 = L0_1
+L0_1 = "r:Kindred_Q_AS_Buf"
+AutoBuffActivateEffect4 = L0_1
+L0_1 = "R_BUFFBONE_GLB_HAND_LOC"
+AutoBuffActivateAttachBoneName4 = L0_1

@@ -1,0 +1,13 @@
+local L0_1, L1_1
+L0_1 = "RagebladeEnrage.dds"
+BuffTextureName = L0_1
+L0_1 = "RagebladeEnrage"
+BuffName = L0_1
+L0_1 = "summoner_battlecry.troy"
+AutoBuffActivateEffect = L0_1
+L0_1 = "summoner_battlecry_oc.troy"
+AutoBuffActivateEffect2 = L0_1
+L0_1 = "TEMP_ItemRagebladeEnrage.troy"
+AutoBuffActivateEffect3 = L0_1
+L0_1 = "BUFFBONE_GLB_WEAPON_1"
+AutoBuffActivateAttachBoneName3 = L0_1

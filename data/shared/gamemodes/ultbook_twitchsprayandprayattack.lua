@@ -1,0 +1,27 @@
+local L0_1, L1_1, L2_1, L3_1
+L0_1 = true
+NotSingleTargetSpell = L0_1
+L0_1 = true
+DoesntTriggerSpellCasts = L0_1
+L0_1 = "r:UltBook_Twitch_R_Weapon_Glow"
+AutoBuffActivateEffect = L0_1
+L0_1 = "r:UltBook_Twitch_R_Weapon_Glow"
+AutoBuffActivateEffect2 = L0_1
+L0_1 = "r_bow"
+AutoBuffActivateAttachBoneName2 = L0_1
+L0_1 = "r:UltBook_Twitch_R_Weapon_Glow"
+AutoBuffActivateEffect3 = L0_1
+L0_1 = "L_bow"
+AutoBuffActivateAttachBoneName3 = L0_1
+L0_1 = "r:UltBook_Twitch_R_Buff"
+AutoBuffActivateEffect4 = L0_1
+L0_1 = "c_buffbone_glb_layout_loc"
+AutoBuffActivateAttachBoneName4 = L0_1
+L0_1 = {}
+L1_1 = "GangsterUltBook_Twitch"
+L2_1 = "PunkUltBook_Twitch"
+L3_1 = "UltBook_TwitchSkin06"
+L0_1[1] = L1_1
+L0_1[2] = L2_1
+L0_1[3] = L3_1
+SpellFXOverrideSkins = L0_1

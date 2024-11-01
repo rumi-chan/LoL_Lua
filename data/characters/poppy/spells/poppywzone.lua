@@ -1,0 +1,9 @@
+local L0_1, L1_1
+L0_1 = "ASSETS/Characters/Poppy/HUD/Icons2D/Poppy_W.dds"
+BuffTextureName = L0_1
+L0_1 = "PoppyWZone"
+BuffName = L0_1
+L0_1 = {}
+L1_1 = "FireworksCorki"
+L0_1[1] = L1_1
+SpellFXOverrideSkins = L0_1

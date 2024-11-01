@@ -1,0 +1,21 @@
+local L0_1, L1_1, L2_1
+L0_1 = true
+NotSingleTargetSpell = L0_1
+L0_1 = false
+DoesntTriggerSpellCasts = L0_1
+L0_1 = "ASSETS/Characters/Tristana/HUD/Icons2D/Tristana_Q.dds"
+BuffTextureName = L0_1
+L0_1 = "TristanaQ"
+BuffName = L0_1
+L0_1 = "r:Tristana_Q_Buf"
+AutoBuffActivateEffect = L0_1
+L0_1 = "Buffbone_Glb_Weapon_1"
+AutoBuffActivateAttachBoneName = L0_1
+L0_1 = {}
+L1_1 = "Tristana_Skin03"
+L2_1 = "Tristana_Skin06"
+L0_1[1] = L1_1
+L0_1[2] = L2_1
+SpellFXOverrideSkins = L0_1
+L0_1 = true
+TriggersSpellCasts = L0_1

@@ -1,0 +1,13 @@
+local L0_1, L1_1
+L0_1 = true
+NotSingleTargetSpell = L0_1
+L0_1 = true
+DoesntTriggerSpellCasts = L0_1
+L0_1 = "2011_Elixir_Of_Skill.dds"
+BuffTextureName = L0_1
+L0_1 = "ItemElixirOfSkill"
+BuffName = L0_1
+L0_1 = "Buffbone_Glb_Ground_Loc"
+AutoBuffActivateAttachBoneName = L0_1
+L0_1 = true
+PersistsThroughDeath = L0_1

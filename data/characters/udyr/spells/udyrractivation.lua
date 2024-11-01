@@ -1,0 +1,11 @@
+local L0_1, L1_1
+L0_1 = "ASSETS/Characters/Udyr/HUD/Icons2D/Udyr_PhoenixStance.dds"
+BuffTextureName = L0_1
+L0_1 = "UdyrRActivation"
+BuffName = L0_1
+L0_1 = true
+IsDeathRecapSource = L0_1
+L0_1 = {}
+L1_1 = "SpiritUdyr"
+L0_1[1] = L1_1
+SpellFXOverrideSkins = L0_1

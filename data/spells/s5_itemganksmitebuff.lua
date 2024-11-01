@@ -1,0 +1,9 @@
+local L0_1, L1_1
+L0_1 = "Summoner_clairvoyance.dds"
+BuffTextureName = L0_1
+L0_1 = "S5_ItemDuelSmiteBuff"
+BuffName = L0_1
+L0_1 = true
+PersistsThroughDeath = L0_1
+L0_1 = true
+Nondispellable = L0_1

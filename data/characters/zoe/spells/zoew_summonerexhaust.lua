@@ -1,0 +1,15 @@
+local L0_1, L1_1
+L0_1 = true
+NotSingleTargetSpell = L0_1
+L0_1 = true
+DoesntBreakShields = L0_1
+L0_1 = true
+DoesntTriggerSpellCasts = L0_1
+L0_1 = true
+CastingBreaksStealth = L0_1
+L0_1 = "Summoner_Exhaust.dds"
+BuffTextureName = L0_1
+L0_1 = "SummonerExhaustDebuff"
+BuffName = L0_1
+L0_1 = "Buffbone_Glb_Ground_Loc"
+AutoBuffActivateAttachBoneName = L0_1

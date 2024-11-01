@@ -1,0 +1,23 @@
+local L0_1, L1_1, L2_1, L3_1
+L0_1 = false
+NotSingleTargetSpell = L0_1
+L0_1 = true
+DoesntTriggerSpellCasts = L0_1
+L0_1 = "ASSETS/Spells/Icons2D/Chronokeeper_Timestop.dds"
+BuffTextureName = L0_1
+L0_1 = "Slow"
+BuffName = L0_1
+L0_1 = "GLOBAL_SLOW.TROY"
+AutoBuffActivateEffect = L0_1
+L0_1 = "game_floatingtext_Slowed"
+PopupMessage1 = L0_1
+L0_1 = {}
+L1_1 = "Draven_Gladiator"
+L2_1 = "DravenSkin03"
+L3_1 = "DravenSkin04"
+L0_1[1] = L1_1
+L0_1[2] = L2_1
+L0_1[3] = L3_1
+SpellFXOverrideSkins = L0_1
+L0_1 = true
+IsDamagingSpell = L0_1

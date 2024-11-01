@@ -1,0 +1,3 @@
+local L0_1, L1_1
+L0_1 = "ASSETS/Perks/Styles/Domination/Predator/Predator.dds"
+BuffTextureName = L0_1

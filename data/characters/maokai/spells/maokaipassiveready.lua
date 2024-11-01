@@ -1,0 +1,9 @@
+local L0_1, L1_1
+L0_1 = "ASSETS/Characters/Maokai/HUD/Icons2D/Maokai_PassiveReady.dds"
+BuffTextureName = L0_1
+L0_1 = "r:Maokai_P_cas"
+AutoBuffActivateEffect = L0_1
+L0_1 = "L_BUFFBONE_GLB_HAND_LOC"
+AutoBuffActivateAttachBoneName = L0_1
+L0_1 = true
+PersistsThroughDeath = L0_1

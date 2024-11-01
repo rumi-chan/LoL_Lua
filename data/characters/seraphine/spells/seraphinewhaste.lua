@@ -1,0 +1,13 @@
+local L0_1, L1_1
+L0_1 = false
+NotSingleTargetSpell = L0_1
+L0_1 = false
+DoesntTriggerSpellCasts = L0_1
+L0_1 = "Seraphine_W1.EllipsisMage.dds"
+BuffTextureName = L0_1
+L0_1 = "SeraphineWHaste"
+BuffName = L0_1
+L0_1 = 2
+OnPreDamagePriority = L0_1
+L0_1 = true
+DoOnPreDamageInExpirationOrder = L0_1

@@ -1,0 +1,9 @@
+local L0_1, L1_1
+L0_1 = "ASSETS/Characters/MissFortune/HUD/Icons2D/MissFortune_E.dds"
+BuffTextureName = L0_1
+L0_1 = "MissFortuneScattershotSlow"
+BuffName = L0_1
+L0_1 = "GLOBAL_SLOW.TROY"
+AutoBuffActivateEffect = L0_1
+L0_1 = "game_floatingtext_Slowed"
+PopupMessage1 = L0_1

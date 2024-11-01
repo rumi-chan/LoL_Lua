@@ -1,0 +1,11 @@
+local L0_1, L1_1
+L0_1 = true
+DoesntBreakShields = L0_1
+L0_1 = true
+DoesntTriggerSpellCasts = L0_1
+L0_1 = false
+CastingBreaksStealth = L0_1
+L0_1 = "ASSETS/Characters/TahmKench/HUD/Icons2D/TahmKenchRWrapper.dds"
+BuffTextureName = L0_1
+L0_1 = true
+PersistsThroughDeath = L0_1

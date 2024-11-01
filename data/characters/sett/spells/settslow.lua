@@ -1,0 +1,9 @@
+local L0_1, L1_1
+L0_1 = true
+NotSingleTargetSpell = L0_1
+L0_1 = false
+DoesntTriggerSpellCasts = L0_1
+L0_1 = "ASSETSCharactersSettHUDIcons2DSett_Buff.Sett"
+BuffTextureName = L0_1
+L0_1 = "SettSlow"
+BuffName = L0_1

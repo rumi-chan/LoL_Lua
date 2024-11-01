@@ -1,0 +1,15 @@
+local L0_1, L1_1
+L0_1 = false
+NotSingleTargetSpell = L0_1
+L0_1 = true
+DoesntTriggerSpellCasts = L0_1
+L0_1 = "ASSETS/Characters/TFT_Lissandra/HUD/Icons2D/TFT_Lissandra_R.dds"
+BuffTextureName = L0_1
+L0_1 = "TFT_LissandraRSlow"
+BuffName = L0_1
+L0_1 = 1
+SpellDamageRatio = L0_1
+L0_1 = "game_floatingtext_Slowed"
+PopupMessage1 = L0_1
+L0_1 = true
+IsDamagingSpell = L0_1

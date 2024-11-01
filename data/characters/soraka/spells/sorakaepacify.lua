@@ -1,0 +1,11 @@
+local L0_1, L1_1
+L0_1 = "ASSETS/Characters/Soraka/HUD/Icons2D/Soraka_E.dds"
+BuffTextureName = L0_1
+L0_1 = "SorakaEPacify"
+BuffName = L0_1
+L0_1 = "r:LOC_Silence"
+AutoBuffActivateEffect = L0_1
+L0_1 = "C_BUFFBONE_GLB_HEAD_LOC"
+AutoBuffActivateAttachBoneName = L0_1
+L0_1 = "game_floatingtext_Silenced"
+PopupMessage1 = L0_1

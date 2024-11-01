@@ -1,0 +1,11 @@
+local L0_1, L1_1
+L0_1 = "ASSETS/Characters/Karma/HUD/Icons2D/Karma_R.dds"
+BuffTextureName = L0_1
+L0_1 = "KarmaMantra"
+BuffName = L0_1
+L0_1 = 4
+SpellToggleSlot = L0_1
+L0_1 = {}
+L1_1 = "KarmaClassic"
+L0_1[1] = L1_1
+SpellVOOverrideSkins = L0_1

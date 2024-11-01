@@ -1,0 +1,11 @@
+local L0_1, L1_1
+L0_1 = true
+DoesntBreakShields = L0_1
+L0_1 = "ASSETS/Characters/Varus/HUD/Icons2D/VarusW.dds"
+BuffTextureName = L0_1
+L0_1 = "VarusWDebuff"
+BuffName = L0_1
+L0_1 = {}
+L1_1 = "VarusAscended"
+L0_1[1] = L1_1
+SpellFXOverrideSkins = L0_1

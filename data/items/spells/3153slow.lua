@@ -1,0 +1,13 @@
+local L0_1, L1_1
+L0_1 = true
+NotSingleTargetSpell = L0_1
+L0_1 = true
+DoesntTriggerSpellCasts = L0_1
+L0_1 = true
+CastingBreaksStealth = L0_1
+L0_1 = "3153_Fighter_T3_BladeOfTheRuinedKing.dds"
+BuffTextureName = L0_1
+L0_1 = "3153Slow"
+BuffName = L0_1
+L0_1 = "game_floatingtext_Slowed"
+PopupMessage1 = L0_1

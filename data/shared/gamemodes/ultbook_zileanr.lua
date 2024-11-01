@@ -1,0 +1,23 @@
+local L0_1, L1_1, L2_1, L3_1
+L0_1 = "ASSETS/Characters/Zilean/HUD/Icons2D/UltBook_Zilean_R_Zilean_R.dds"
+BuffTextureName = L0_1
+L0_1 = {}
+L1_1 = 160
+L2_1 = 140
+L3_1 = 120
+L0_1[1] = L1_1
+L0_1[2] = L2_1
+L0_1[3] = L3_1
+AutoCooldownByLevel = L0_1
+L0_1 = true
+PersistsThroughDeath = L0_1
+L0_1 = true
+NonDispellable = L0_1
+L0_1 = 4
+OnPreDamagePriority = L0_1
+L0_1 = 1
+DeathEventType = L0_1
+L0_1 = {}
+L1_1 = "UltBook_ZileanSkin05"
+L0_1[1] = L1_1
+SpellFXOverrideSkins = L0_1

@@ -1,0 +1,13 @@
+local L0_1, L1_1
+L0_1 = true
+NotSingleTargetSpell = L0_1
+L0_1 = true
+DoesntTriggerSpellCasts = L0_1
+L0_1 = "ASSETS/Items/Icons2D/2031_Class_T1_RefillablePotion.dds"
+BuffTextureName = L0_1
+L0_1 = "ItemCrystalFlask"
+BuffName = L0_1
+L0_1 = "GLOBAL_Item_HealthPotion.troy"
+AutoBuffActivateEffect = L0_1
+L0_1 = "Buffbone_Glb_Ground_Loc"
+AutoBuffActivateAttachBoneName = L0_1

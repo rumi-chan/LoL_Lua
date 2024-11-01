@@ -1,0 +1,9 @@
+local L0_1, L1_1
+L0_1 = "ASSETS/Characters/MasterYi/HUD/Icons2D/MasterYi_Passive2.dds"
+BuffTextureName = L0_1
+L0_1 = "DoubleStrikeStacks"
+BuffName = L0_1
+L0_1 = true
+PersistsThroughDeath = L0_1
+L0_1 = true
+NonDispellable = L0_1

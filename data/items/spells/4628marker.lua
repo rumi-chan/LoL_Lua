@@ -1,0 +1,11 @@
+local L0_1, L1_1
+L0_1 = "ASSETS/Items/Icons2D/4628_Mage_T3_HorizonFocus.dds"
+BuffTextureName = L0_1
+L0_1 = "4628Marker"
+BuffName = L0_1
+L0_1 = true
+PersistsThroughDeath = L0_1
+L0_1 = 2
+OnPreDamagePriority = L0_1
+L0_1 = true
+DoOnPreDamageInExpirationOrder = L0_1

@@ -1,0 +1,11 @@
+local L0_1, L1_1
+L0_1 = "ASSETS/Characters/Teemo/HUD/Icons2D/TeemoE.ASU_Teemo.dds"
+BuffTextureName = L0_1
+L0_1 = "TeemoEDot"
+BuffName = L0_1
+L0_1 = "r:Teemo_E_Poison"
+AutoBuffActivateEffect = L0_1
+L0_1 = "C_BUFFBONE_GLB_HEAD_LOC"
+AutoBuffActivateAttachBoneName = L0_1
+L0_1 = true
+IsDeathRecapSource = L0_1

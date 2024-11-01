@@ -1,0 +1,11 @@
+local L0_1, L1_1
+L0_1 = true
+NotSingleTargetSpell = L0_1
+L0_1 = true
+DoesntTriggerSpellCasts = L0_1
+L0_1 = "ASSETS/Items/Icons2D/2003_Class_T1_HealthPotion.dds"
+BuffTextureName = L0_1
+L0_1 = "Global_Item_HealthPotion.troy"
+AutoBuffActivateEffect = L0_1
+L0_1 = "Buffbone_Glb_Ground_Loc"
+AutoBuffActivateAttachBoneName = L0_1

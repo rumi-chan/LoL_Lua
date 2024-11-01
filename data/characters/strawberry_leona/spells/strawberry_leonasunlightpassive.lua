@@ -1,0 +1,9 @@
+local L0_1, L1_1
+L0_1 = "ASSETS/Characters/Strawberry_Leona/HUD/Icons2D/Strawberry_LeonaP.Strawberry_LeonaNewIcons.dds"
+BuffTextureName = L0_1
+L0_1 = "Strawberry_LeonaSunlightPassive"
+BuffName = L0_1
+L0_1 = true
+PersistsThroughDeath = L0_1
+L0_1 = true
+NonDispellable = L0_1

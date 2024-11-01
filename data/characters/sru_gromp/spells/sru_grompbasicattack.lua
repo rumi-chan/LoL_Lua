@@ -1,0 +1,9 @@
+local L0_1, L1_1
+L0_1 = "Gromp_Square.dds"
+BuffTextureName = L0_1
+L0_1 = "S5JungleMushroomArmor"
+BuffName = L0_1
+L0_1 = {}
+L1_1 = "PantheonSkin06"
+L0_1[1] = L1_1
+SpellFXOverrideSkins = L0_1

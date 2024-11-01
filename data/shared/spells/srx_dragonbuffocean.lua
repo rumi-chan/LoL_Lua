@@ -1,0 +1,9 @@
+local L0_1, L1_1
+L0_1 = "DragonWaterMinimap.dds"
+BuffTextureName = L0_1
+L0_1 = "SRE_Dragon_Water_Soul_Buff"
+BuffName = L0_1
+L0_1 = true
+PersistsThroughDeath = L0_1
+L0_1 = true
+NonDispellable = L0_1

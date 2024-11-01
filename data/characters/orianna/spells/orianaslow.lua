@@ -1,0 +1,9 @@
+local L0_1, L1_1
+L0_1 = "ASSETS/Characters/Orianna/HUD/Icons2D/OriannaW.dds"
+BuffTextureName = L0_1
+L0_1 = "OrianaDissonanceEnemy"
+BuffName = L0_1
+L0_1 = "r:Global_Slow"
+AutoBuffActivateEffect = L0_1
+L0_1 = "game_floatingtext_Slowed"
+PopupMessage1 = L0_1

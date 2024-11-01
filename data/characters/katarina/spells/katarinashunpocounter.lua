@@ -1,0 +1,9 @@
+local L0_1, L1_1
+L0_1 = "ASSETS/Characters/Katarina/HUD/Icons2D/Katarina_Passive.dds"
+BuffTextureName = L0_1
+L0_1 = "KatarinaPassive"
+BuffName = L0_1
+L0_1 = true
+PersistsThroughDeath = L0_1
+L0_1 = true
+NonDispellable = L0_1

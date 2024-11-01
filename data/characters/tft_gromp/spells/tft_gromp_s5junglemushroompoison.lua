@@ -1,0 +1,11 @@
+local L0_1, L1_1
+L0_1 = "Gromp_Square.dds"
+BuffTextureName = L0_1
+L0_1 = "S5JungleMushroomPoison"
+BuffName = L0_1
+L0_1 = 1
+SpellDamageRatio = L0_1
+L0_1 = true
+PersistsThroughDeath = L0_1
+L0_1 = true
+NonDispellable = L0_1

@@ -1,0 +1,13 @@
+local L0_1, L1_1
+L0_1 = false
+NotSingleTargetSpell = L0_1
+L0_1 = false
+DoesntTriggerSpellCasts = L0_1
+L0_1 = "ASSETS/Characters/Elise/HUD/Icons2D/EliseSpiderW.dds"
+BuffTextureName = L0_1
+L0_1 = "BuffEliseSkitter"
+BuffName = L0_1
+L0_1 = "r:Elise_Spider_W_buf_move"
+AutoBuffActivateEffect = L0_1
+L0_1 = "C_BUFFBONE_GLB_LAYOUT_LOC"
+AutoBuffActivateAttachBoneName = L0_1

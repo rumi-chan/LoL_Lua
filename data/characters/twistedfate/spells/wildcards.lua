@@ -1,0 +1,21 @@
+local L0_1, L1_1
+L0_1 = false
+NotSingleTargetSpell = L0_1
+L0_1 = false
+DoesntTriggerSpellCasts = L0_1
+L0_1 = "ASSETS/Characters/TwistedFate/HUD/Icons2D/Cardmaster_PowerCard.dds"
+BuffTextureName = L0_1
+L0_1 = "Wild Cards"
+BuffName = L0_1
+L0_1 = "r:TwistedFate_Q_SF_tar_01"
+AutoBuffActivateEffect = L0_1
+L0_1 = "r:LOC_Silence"
+AutoBuffActivateEffect2 = L0_1
+L0_1 = "C_BUFFBONE_GLB_HEAD_LOC"
+AutoBuffActivateAttachBoneName2 = L0_1
+L0_1 = true
+NonDispellable = L0_1
+L0_1 = {}
+L1_1 = "UnderworldTwistedFate"
+L0_1[1] = L1_1
+SpellFXOverrideSkins = L0_1

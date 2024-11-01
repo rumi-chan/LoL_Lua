@@ -1,0 +1,15 @@
+local L0_1, L1_1
+L0_1 = "ASSETS/Characters/NEXUSBLITZ_SorakaBot/HUD/Icons2D/NEXUSBLITZ_SorakaBot_Q.NexusBlitzSummer2020.dds"
+BuffTextureName = L0_1
+L0_1 = "NEXUSBLITZ_SorakaBotQ"
+BuffName = L0_1
+L0_1 = "Global_Slow.troy"
+AutoBuffActivateEffect = L0_1
+L0_1 = true
+IsDeathRecapSource = L0_1
+L0_1 = "game_floatingtext_Slowed"
+PopupMessage1 = L0_1
+L0_1 = {}
+L1_1 = "NEXUSBLITZ_SorakaBotSkin04"
+L0_1[1] = L1_1
+SpellFXOverrideSkins = L0_1

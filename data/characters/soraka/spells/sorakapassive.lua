@@ -1,0 +1,11 @@
+local L0_1, L1_1
+L0_1 = "ASSETS/Characters/Soraka/HUD/Icons2D/Soraka_Passive.dds"
+BuffTextureName = L0_1
+L0_1 = "SorakaPassive"
+BuffName = L0_1
+L0_1 = "r:soraka_passive_speed"
+AutoBuffActivateEffect = L0_1
+L0_1 = {}
+L1_1 = "SorakaSkin04"
+L0_1[1] = L1_1
+SpellFXOverrideSkins = L0_1

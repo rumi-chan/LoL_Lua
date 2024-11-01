@@ -1,0 +1,13 @@
+local L0_1, L1_1
+L0_1 = "ASSETS/Characters/Anivia/HUD/Icons2D/Anivia_P.dds"
+BuffTextureName = L0_1
+L0_1 = "RebirthReady"
+BuffName = L0_1
+L0_1 = true
+PersistsThroughDeath = L0_1
+L0_1 = true
+NonDispellable = L0_1
+L0_1 = 8
+OnPreDamagePriority = L0_1
+L0_1 = 1
+DeathEventType = L0_1

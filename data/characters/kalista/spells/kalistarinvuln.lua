@@ -1,0 +1,9 @@
+local L0_1, L1_1
+L0_1 = "ASSETS/Characters/Kalista/HUD/Icons2D/Kalista_R.dds"
+BuffTextureName = L0_1
+L0_1 = "KalistaRInvuln"
+BuffName = L0_1
+L0_1 = "r:Kalista_R_Zhonyas_Sound"
+AutoBuffActivateEffect4 = L0_1
+L0_1 = "C_Buffbone_Glb_Head_Loc"
+AutoBuffActivateAttachBoneName4 = L0_1

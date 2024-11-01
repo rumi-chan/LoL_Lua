@@ -1,0 +1,15 @@
+local L0_1, L1_1
+L0_1 = false
+NotSingleTargetSpell = L0_1
+L0_1 = true
+DoesntTriggerSpellCasts = L0_1
+L0_1 = "ASSETS/Characters/Khazix/HUD/Icons2D/Khazix_W_red.dds"
+BuffTextureName = L0_1
+L0_1 = "KhazixWEvoSlow"
+BuffName = L0_1
+L0_1 = "Global_Slow.troy"
+AutoBuffActivateEffect = L0_1
+L0_1 = "game_floatingtext_Slowed"
+PopupMessage1 = L0_1
+L0_1 = true
+IsDamagingSpell = L0_1

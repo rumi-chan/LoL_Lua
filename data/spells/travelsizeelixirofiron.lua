@@ -1,0 +1,17 @@
+local L0_1, L1_1
+L0_1 = true
+NotSingleTargetSpell = L0_1
+L0_1 = true
+DoesntTriggerSpellCasts = L0_1
+L0_1 = "2058_Travel_Size_Elixir_of_Iron.dds"
+BuffTextureName = L0_1
+L0_1 = "TravelSizeElixirOfIron"
+BuffName = L0_1
+L0_1 = "Global_Item_TravelSizeElixirOfIron_Buf.troy"
+AutoBuffActivateEffect = L0_1
+L0_1 = "C_BUFFBONE_GLB_CHEST_LOC"
+AutoBuffActivateAttachBoneName = L0_1
+L0_1 = true
+PersistsThroughDeath = L0_1
+L0_1 = true
+NonDispellable = L0_1

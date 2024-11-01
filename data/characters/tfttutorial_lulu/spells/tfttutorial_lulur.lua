@@ -1,0 +1,17 @@
+local L0_1, L1_1
+L0_1 = false
+NotSingleTargetSpell = L0_1
+L0_1 = false
+DoesntTriggerSpellCasts = L0_1
+L0_1 = "ASSETS/Characters/TFTTutorial_Lulu/HUD/Icons2D/TFTTutorial_Lulu_GiantGrowth.dds"
+BuffTextureName = L0_1
+L0_1 = "TFTTutorial_LuluR"
+BuffName = L0_1
+L0_1 = "r:TFTTutorial_Lulu_R_tar_audio"
+AutoBuffActivateEffect = L0_1
+L0_1 = true
+PersistsThroughDeath = L0_1
+L0_1 = {}
+L1_1 = "TFTTutorial_LuluSkin05"
+L0_1[1] = L1_1
+SpellFXOverrideSkins = L0_1

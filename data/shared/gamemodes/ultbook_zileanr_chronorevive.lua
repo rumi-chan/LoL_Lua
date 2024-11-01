@@ -1,0 +1,13 @@
+local L0_1, L1_1
+L0_1 = "ASSETS/Characters/Zilean/HUD/Icons2D/UltBook_Zilean_R_Zilean_R.dds"
+BuffTextureName = L0_1
+L0_1 = "UltBook_ZileanR_ChronoRevive"
+BuffName = L0_1
+L0_1 = true
+PersistsThroughDeath = L0_1
+L0_1 = true
+NonDispellable = L0_1
+L0_1 = {}
+L1_1 = "UltBook_ZileanSkin05"
+L0_1[1] = L1_1
+SpellFXOverrideSkins = L0_1

@@ -1,0 +1,15 @@
+local L0_1, L1_1
+L0_1 = "ASSETS/Characters/Taric/HUD/Icons2D/Taric_R.dds"
+BuffTextureName = L0_1
+L0_1 = "TaricR"
+BuffName = L0_1
+L0_1 = 2
+OnPreDamagePriority = L0_1
+L0_1 = {}
+L1_1 = "NunuBot"
+L0_1[1] = L1_1
+SpellFXOverrideSkins = L0_1
+L0_1 = {}
+L1_1 = ""
+L0_1[1] = L1_1
+SpellVOOverrideSkins = L0_1

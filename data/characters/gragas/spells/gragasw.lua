@@ -1,0 +1,17 @@
+local L0_1, L1_1
+L0_1 = true
+NotSingleTargetSpell = L0_1
+L0_1 = false
+DoesntTriggerSpellCasts = L0_1
+L0_1 = "ASSETS/Characters/Gragas/HUD/Icons2D/GragasDrunkenRage.dds"
+BuffTextureName = L0_1
+L0_1 = "GragasDrunkenRage"
+BuffName = L0_1
+L0_1 = "r:Gragas_W_Buf_Hands"
+AutoBuffActivateEffect = L0_1
+L0_1 = "L_BUFFBONE_GLB_HAND_LOC"
+AutoBuffActivateAttachBoneName = L0_1
+L0_1 = "r:Gragas_W_Buf_Hands"
+AutoBuffActivateEffect2 = L0_1
+L0_1 = "R_BUFFBONE_GLB_HAND_LOC"
+AutoBuffActivateAttachBoneName2 = L0_1

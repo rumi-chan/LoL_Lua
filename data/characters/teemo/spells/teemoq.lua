@@ -1,0 +1,25 @@
+local L0_1, L1_1, L2_1
+L0_1 = false
+NotSingleTargetSpell = L0_1
+L0_1 = false
+DoesntTriggerSpellCasts = L0_1
+L0_1 = "ASSETS/Characters/Teemo/HUD/Icons2D/TeemoQ.dds"
+BuffTextureName = L0_1
+L0_1 = "Blind"
+BuffName = L0_1
+L0_1 = "r:Teemo_Q_debuf"
+AutoBuffActivateEffect = L0_1
+L0_1 = "C_BUFFBONE_GLB_HEAD_LOC"
+AutoBuffActivateAttachBoneName = L0_1
+L0_1 = "game_floatingtext_Blinded"
+PopupMessage1 = L0_1
+L0_1 = {}
+L1_1 = "AstronautTeemo"
+L2_1 = "TeemoSkin08"
+L0_1[1] = L1_1
+L0_1[2] = L2_1
+SpellFXOverrideSkins = L0_1
+L0_1 = {}
+L1_1 = "TeemoSkin08"
+L0_1[1] = L1_1
+SpellVOOverrideSkins = L0_1

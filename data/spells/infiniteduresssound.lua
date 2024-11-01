@@ -1,0 +1,9 @@
+local L0_1, L1_1
+L0_1 = "Wolfman_InfiniteDuress.dds"
+BuffTextureName = L0_1
+L0_1 = "InfiniteDuressSound"
+BuffName = L0_1
+L0_1 = {}
+L1_1 = "HyenaWarwick"
+L0_1[1] = L1_1
+SpellVOOverrideSkins = L0_1

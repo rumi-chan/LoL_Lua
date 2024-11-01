@@ -1,0 +1,11 @@
+local L0_1, L1_1
+L0_1 = true
+NotSingleTargetSpell = L0_1
+L0_1 = false
+DoesntTriggerSpellCasts = L0_1
+L0_1 = "ASSETS/Characters/TFT_Fiora/HUD/Icons2D/TFT_Fiora_Parry.dds"
+BuffTextureName = L0_1
+L0_1 = "TFT_FioraW"
+BuffName = L0_1
+L0_1 = true
+PersistsThroughDeath = L0_1

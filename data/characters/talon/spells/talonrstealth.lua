@@ -1,0 +1,9 @@
+local L0_1, L1_1
+L0_1 = "ASSETS/Characters/Talon/HUD/Icons2D/TalonR.dds"
+BuffTextureName = L0_1
+L0_1 = "TalonRStealth"
+BuffName = L0_1
+L0_1 = {}
+L1_1 = "Akaliskin07"
+L0_1[1] = L1_1
+SpellFXOverrideSkins = L0_1

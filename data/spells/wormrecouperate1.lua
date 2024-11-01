@@ -1,0 +1,11 @@
+local L0_1, L1_1
+L0_1 = false
+NotSingleTargetSpell = L0_1
+L0_1 = false
+DoesntTriggerSpellCasts = L0_1
+L0_1 = "1035_Short_Sword.dds"
+BuffTextureName = L0_1
+L0_1 = "WormRecouperate1"
+BuffName = L0_1
+L0_1 = true
+NonDispellable = L0_1

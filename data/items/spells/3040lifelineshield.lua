@@ -1,0 +1,9 @@
+local L0_1, L1_1
+L0_1 = "ASSETS/Items/Icons2D/3048_Mage_T3_SeraphsEmbrace.dds"
+BuffTextureName = L0_1
+L0_1 = "3040LifelineShield"
+BuffName = L0_1
+L0_1 = 2
+OnPreDamagePriority = L0_1
+L0_1 = true
+DoOnPreDamageInExpirationOrder = L0_1

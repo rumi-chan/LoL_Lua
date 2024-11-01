@@ -1,0 +1,11 @@
+local L0_1, L1_1
+L0_1 = "ASSETS/Characters/Graves/HUD/Icons2D/GravesW.dds"
+BuffTextureName = L0_1
+L0_1 = "GravesSmokeGrenade"
+BuffName = L0_1
+L0_1 = "r:Graves_W_Nearsight"
+AutoBuffActivateEffect = L0_1
+L0_1 = {}
+L1_1 = "GravesSkin05"
+L0_1[1] = L1_1
+SpellFXOverrideSkins = L0_1

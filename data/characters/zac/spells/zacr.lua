@@ -1,0 +1,15 @@
+local L0_1, L1_1
+L0_1 = true
+NotSingleTargetSpell = L0_1
+L0_1 = true
+DoesntBreakShields = L0_1
+L0_1 = "ASSETS/Characters/Zac/HUD/Icons2D/ZacR.dds"
+BuffTextureName = L0_1
+L0_1 = "ZacR"
+BuffName = L0_1
+L0_1 = 4
+SpellToggleSlot = L0_1
+L0_1 = {}
+L1_1 = "ZacSkin02"
+L0_1[1] = L1_1
+SpellFXOverrideSkins = L0_1

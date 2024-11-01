@@ -1,0 +1,11 @@
+local L0_1, L1_1
+L0_1 = true
+NotSingleTargetSpell = L0_1
+L0_1 = true
+DoesntTriggerSpellCasts = L0_1
+L0_1 = "3060_Banner_of_Command.dds"
+BuffTextureName = L0_1
+L0_1 = "TabletOfCommandMinion"
+BuffName = L0_1
+L0_1 = true
+PersistsThroughDeath = L0_1

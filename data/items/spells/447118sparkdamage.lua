@@ -1,0 +1,11 @@
+local L0_1, L1_1
+L0_1 = "ASSETS/Items/Icons2D/6660_Tank_T2_BamisCinder.dds"
+BuffTextureName = L0_1
+L0_1 = "447118SparkDamage"
+BuffName = L0_1
+L0_1 = "447118SparkDamage"
+DisplayName = L0_1
+L0_1 = {}
+L1_1 = "FrostShyvana"
+L0_1[1] = L1_1
+SpellFXOverrideSkins = L0_1

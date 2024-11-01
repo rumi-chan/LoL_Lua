@@ -1,0 +1,13 @@
+local L0_1, L1_1
+L0_1 = "Summoner_Clairvoyance.dds"
+BuffTextureName = L0_1
+L0_1 = "ItemClairvoyanceSight"
+BuffName = L0_1
+L0_1 = "global_Watched.troy"
+AutoBuffActivateEffect = L0_1
+L0_1 = "C_BUFFBONE_GLB_HEAD_LOC"
+AutoBuffActivateAttachBoneName = L0_1
+L0_1 = {}
+L1_1 = "HeadhunterNidalee"
+L0_1[1] = L1_1
+SpellFXOverrideSkins = L0_1

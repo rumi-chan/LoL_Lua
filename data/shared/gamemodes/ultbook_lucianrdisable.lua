@@ -1,0 +1,13 @@
+local L0_1, L1_1
+L0_1 = true
+DoesntTriggerSpellCasts = L0_1
+L0_1 = "ASSETS/Characters/Lucian/HUD/Icons2D/Lucian_R.dds"
+BuffTextureName = L0_1
+L0_1 = "UltBook_LucianRDisable"
+BuffName = L0_1
+L0_1 = "Lucian_R_self.troy"
+AutoBuffActivateEffect = L0_1
+L0_1 = 4
+SpellToggleSlot = L0_1
+L0_1 = true
+PersistsThroughDeath = L0_1

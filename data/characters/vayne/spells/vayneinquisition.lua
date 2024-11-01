@@ -1,0 +1,25 @@
+local L0_1, L1_1, L2_1, L3_1, L4_1, L5_1
+L0_1 = true
+NotSingleTargetSpell = L0_1
+L0_1 = false
+DoesntTriggerSpellCasts = L0_1
+L0_1 = "ASSETS/Characters/Vayne/HUD/Icons2D/Vayne_R.dds"
+BuffTextureName = L0_1
+L0_1 = "VayneInquisition"
+BuffName = L0_1
+L0_1 = {}
+L1_1 = 75
+L2_1 = 75
+L3_1 = 75
+L4_1 = 18
+L5_1 = 14
+L0_1[1] = L1_1
+L0_1[2] = L2_1
+L0_1[3] = L3_1
+L0_1[4] = L4_1
+L0_1[5] = L5_1
+AutoCooldownByLevel = L0_1
+L0_1 = {}
+L1_1 = "VayneSkin06"
+L0_1[1] = L1_1
+SpellFXOverrideSkins = L0_1

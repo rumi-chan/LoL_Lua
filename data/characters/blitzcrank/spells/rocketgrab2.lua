@@ -1,0 +1,9 @@
+local L0_1, L1_1
+L0_1 = "ASSETS/Characters/Blitzcrank/HUD/Icons2D/BlitzcrankQ.dds"
+BuffTextureName = L0_1
+L0_1 = "RocketGrab"
+BuffName = L0_1
+L0_1 = {}
+L1_1 = "iBlitz"
+L0_1[1] = L1_1
+SpellFXOverrideSkins = L0_1

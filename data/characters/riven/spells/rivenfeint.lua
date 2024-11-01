@@ -1,0 +1,25 @@
+local L0_1, L1_1, L2_1
+L0_1 = false
+NotSingleTargetSpell = L0_1
+L0_1 = true
+DoesntBreakShields = L0_1
+L0_1 = false
+DoesntTriggerSpellCasts = L0_1
+L0_1 = true
+CastingBreaksStealth = L0_1
+L0_1 = "ASSETS/Characters/Riven/HUD/Icons2D/RivenPathoftheExile.dds"
+BuffTextureName = L0_1
+L0_1 = "RivenFeint"
+BuffName = L0_1
+L0_1 = "r:Riven_E_Shield"
+AutoBuffActivateEffect = L0_1
+L0_1 = 3
+OnPreDamagePriority = L0_1
+L0_1 = {}
+L1_1 = "RivenSkin05"
+L2_1 = "RivenSkin06"
+L0_1[1] = L1_1
+L0_1[2] = L2_1
+SpellFXOverrideSkins = L0_1
+L0_1 = false
+IsDamagingSpell = L0_1

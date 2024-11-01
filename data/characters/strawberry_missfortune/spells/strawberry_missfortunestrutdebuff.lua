@@ -1,0 +1,9 @@
+local L0_1, L1_1
+L0_1 = "ASSETS/Characters/Strawberry_MissFortune/HUD/Icons2D/Strawberry_MissFortune_Strut_Grey.dds"
+BuffTextureName = L0_1
+L0_1 = "Strawberry_MissFortune_Miss_Fortune_Strut_Cooldown"
+BuffName = L0_1
+L0_1 = true
+PersistsThroughDeath = L0_1
+L0_1 = true
+NonDispellable = L0_1

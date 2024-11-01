@@ -1,0 +1,9 @@
+local L0_1, L1_1
+L0_1 = "ASSETS/Characters/Bard/HUD/Icons2D/Bard_Passive_RequiredForNext.dds"
+BuffTextureName = L0_1
+L0_1 = "BardPDisplayRequiredChimes"
+BuffName = L0_1
+L0_1 = true
+PersistsThroughDeath = L0_1
+L0_1 = true
+NonDispellable = L0_1

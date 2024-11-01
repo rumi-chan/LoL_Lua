@@ -1,0 +1,21 @@
+local L0_1, L1_1, L2_1
+L0_1 = true
+NotSingleTargetSpell = L0_1
+L0_1 = false
+DoesntTriggerSpellCasts = L0_1
+L0_1 = "ASSETS/Characters/Teemo/HUD/Icons2D/Teemo_W.dds"
+BuffTextureName = L0_1
+L0_1 = "TeemoW"
+BuffName = L0_1
+L0_1 = 2
+SpellToggleSlot = L0_1
+L0_1 = {}
+L1_1 = "SuperTeemo"
+L2_1 = "TeemoSkin08"
+L0_1[1] = L1_1
+L0_1[2] = L2_1
+SpellFXOverrideSkins = L0_1
+L0_1 = {}
+L1_1 = "TeemoSkin08"
+L0_1[1] = L1_1
+SpellVOOverrideSkins = L0_1

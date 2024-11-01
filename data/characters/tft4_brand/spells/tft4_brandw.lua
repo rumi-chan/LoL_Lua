@@ -1,0 +1,17 @@
+local L0_1, L1_1
+L0_1 = false
+NotSingleTargetSpell = L0_1
+L0_1 = "ASSETS/Characters/Soraka/HUD/Icons2D/Soraka_E.dds"
+BuffTextureName = L0_1
+L0_1 = "Equinox"
+BuffName = L0_1
+L0_1 = true
+IsDeathRecapSource = L0_1
+L0_1 = true
+PersistsThroughDeath = L0_1
+L0_1 = {}
+L1_1 = "SorakaSkin04"
+L0_1[1] = L1_1
+SpellFXOverrideSkins = L0_1
+L0_1 = true
+TriggersSpellCasts = L0_1

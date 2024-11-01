@@ -1,0 +1,9 @@
+local L0_1, L1_1
+L0_1 = false
+NotSingleTargetSpell = L0_1
+L0_1 = false
+DoesntTriggerSpellCasts = L0_1
+L0_1 = "ASSETS/Characters/MasterYi/HUD/Icons2D/MasterYi_E1.dds"
+BuffTextureName = L0_1
+L0_1 = "WujuStyleSuperCharged"
+BuffName = L0_1

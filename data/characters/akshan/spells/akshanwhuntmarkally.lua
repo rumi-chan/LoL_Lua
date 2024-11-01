@@ -1,0 +1,9 @@
+local L0_1, L1_1
+L0_1 = true
+DoesntBreakShields = L0_1
+L0_1 = "T:depotLoL__MAIN__DevRootASSETSCharactersAkshanHUDIcons2DAkshan_R.Akshan.dds"
+BuffTextureName = L0_1
+L0_1 = "AkshanWHuntMarkAlly"
+BuffName = L0_1
+L0_1 = true
+NonDispellable = L0_1

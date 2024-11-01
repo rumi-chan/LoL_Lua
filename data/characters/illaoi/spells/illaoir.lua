@@ -1,0 +1,13 @@
+local L0_1, L1_1
+L0_1 = "ASSETS/Characters/Illaoi/HUD/Icons2D/Illaoi_R.dds"
+BuffTextureName = L0_1
+L0_1 = "IllaoiR"
+BuffName = L0_1
+L0_1 = {}
+L1_1 = "IllaoiSkin01"
+L0_1[1] = L1_1
+SpellFXOverrideSkins = L0_1
+L0_1 = {}
+L1_1 = "IllaoiSkin01"
+L0_1[1] = L1_1
+SpellVOOverrideSkins = L0_1

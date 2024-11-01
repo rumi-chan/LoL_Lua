@@ -1,0 +1,11 @@
+local L0_1, L1_1
+L0_1 = "GSB_Blind.dds"
+BuffTextureName = L0_1
+L0_1 = "Suppression"
+BuffName = L0_1
+L0_1 = "LOC_Suppress.troy"
+AutoBuffActivateEffect = L0_1
+L0_1 = "C_BUFFBONE_GLB_HEAD_LOC"
+AutoBuffActivateAttachBoneName = L0_1
+L0_1 = "game_floatingtext_Suppressed"
+PopupMessage1 = L0_1

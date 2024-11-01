@@ -1,0 +1,15 @@
+local L0_1, L1_1
+L0_1 = "ASSETS/Characters/Nami/HUD/Icons2D/NamiQ.dds"
+BuffTextureName = L0_1
+L0_1 = "NamiQtt"
+BuffName = L0_1
+L0_1 = "LOC_Stun.troy"
+AutoBuffActivateEffect2 = L0_1
+L0_1 = "C_BUFFBONE_GLB_CENTER_LOC"
+AutoBuffActivateAttachBoneName2 = L0_1
+L0_1 = "game_floatingtext_Stunned"
+PopupMessage1 = L0_1
+L0_1 = {}
+L1_1 = "NamiKoi"
+L0_1[1] = L1_1
+SpellFXOverrideSkins = L0_1

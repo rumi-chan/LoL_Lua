@@ -1,0 +1,23 @@
+local L0_1, L1_1, L2_1
+L0_1 = false
+NotSingleTargetSpell = L0_1
+L0_1 = true
+DoesntBreakShields = L0_1
+L0_1 = false
+DoesntTriggerSpellCasts = L0_1
+L0_1 = true
+CastingBreaksStealth = L0_1
+L0_1 = "ASSETS/Characters/Strawberry_Riven/HUD/Icons2D/Strawberry_RivenPathoftheExile.dds"
+BuffTextureName = L0_1
+L0_1 = "Strawberry_RivenFeint"
+BuffName = L0_1
+L0_1 = 3
+OnPreDamagePriority = L0_1
+L0_1 = {}
+L1_1 = "Strawberry_RivenSkin05"
+L2_1 = "Strawberry_RivenSkin06"
+L0_1[1] = L1_1
+L0_1[2] = L2_1
+SpellFXOverrideSkins = L0_1
+L0_1 = false
+IsDamagingSpell = L0_1

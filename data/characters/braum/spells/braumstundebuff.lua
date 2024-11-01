@@ -1,0 +1,17 @@
+local L0_1, L1_1
+L0_1 = false
+NotSingleTargetSpell = L0_1
+L0_1 = false
+DoesntTriggerSpellCasts = L0_1
+L0_1 = "ASSETS/Characters/Braum/HUD/Icons2D/Braum_Passive.dds"
+BuffTextureName = L0_1
+L0_1 = "BraumStunDebuff"
+BuffName = L0_1
+L0_1 = "LOC_Stun.troy"
+AutoBuffActivateEffect = L0_1
+L0_1 = "C_BUFFBONE_GLB_CENTER_LOC"
+AutoBuffActivateAttachBoneName = L0_1
+L0_1 = "game_floatingtext_Stunned"
+PopupMessage1 = L0_1
+L0_1 = true
+IsDamagingSpell = L0_1

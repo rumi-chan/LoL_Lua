@@ -1,0 +1,17 @@
+local L0_1, L1_1
+L0_1 = false
+NotSingleTargetSpell = L0_1
+L0_1 = false
+DoesntTriggerSpellCasts = L0_1
+L0_1 = "ASSETS/Characters/TFTTutorial_Kassadin/HUD/Icons2D/TFTTutorial_Kassadin_Q.dds"
+BuffTextureName = L0_1
+L0_1 = "TFTTutorial_Kassadin_NullLance"
+BuffName = L0_1
+L0_1 = "r:TFTTutorial_Kassadin_E_buf"
+AutoBuffActivateEffect = L0_1
+L0_1 = {}
+L1_1 = "TFTTutorial_KassadinSkin05"
+L0_1[1] = L1_1
+SpellFXOverrideSkins = L0_1
+L0_1 = true
+IsDamagingSpell = L0_1

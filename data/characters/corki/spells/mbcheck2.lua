@@ -1,0 +1,9 @@
+local L0_1, L1_1
+L0_1 = "ASSETS/Characters/Corki/HUD/Icons2D/Corki_R_BigOne.dds"
+BuffTextureName = L0_1
+L0_1 = "CorkiMissileBarrageCounterBig"
+BuffName = L0_1
+L0_1 = true
+PersistsThroughDeath = L0_1
+L0_1 = true
+NonDispellable = L0_1

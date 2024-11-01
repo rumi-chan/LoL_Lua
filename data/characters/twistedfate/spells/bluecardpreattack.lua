@@ -1,0 +1,11 @@
+local L0_1, L1_1
+L0_1 = true
+DoesntBreakShields = L0_1
+L0_1 = true
+DoesntTriggerSpellCasts = L0_1
+L0_1 = "ASSETS/Characters/TwistedFate/HUD/Icons2D/Cardmaster_blue.dds"
+BuffTextureName = L0_1
+L0_1 = "Pick_A_Card_Blue"
+BuffName = L0_1
+L0_1 = "r:TwistedFate_W_SelectBlue"
+AutoBuffActivateEffect = L0_1

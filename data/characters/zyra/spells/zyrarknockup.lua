@@ -1,0 +1,11 @@
+local L0_1, L1_1
+L0_1 = "ASSETS/Characters/Zyra/HUD/Icons2D/ZyraR.dds"
+BuffTextureName = L0_1
+L0_1 = "ZyraRKnockUp"
+BuffName = L0_1
+L0_1 = "game_floatingtext_Knockup"
+PopupMessage1 = L0_1
+L0_1 = {}
+L1_1 = "ZyraSkin02"
+L0_1[1] = L1_1
+SpellFXOverrideSkins = L0_1

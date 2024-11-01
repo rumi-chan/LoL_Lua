@@ -1,0 +1,9 @@
+local L0_1, L1_1
+L0_1 = "ASSETS/Characters/TFT3_Blitzcrank/HUD/Icons2D/TFT3_Blitzcrank_TFT3_Blitzcrank_RocketGrab.dds"
+BuffTextureName = L0_1
+L0_1 = "TFT3_Blitzcrank_RocketGrab"
+BuffName = L0_1
+L0_1 = {}
+L1_1 = "iBlitz"
+L0_1[1] = L1_1
+SpellFXOverrideSkins = L0_1

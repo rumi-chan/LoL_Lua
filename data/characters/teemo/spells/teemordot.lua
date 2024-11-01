@@ -1,0 +1,17 @@
+local L0_1, L1_1
+L0_1 = "ASSETS/Characters/Teemo/HUD/Icons2D/TeemoR.ASU_Teemo.dds"
+BuffTextureName = L0_1
+L0_1 = "TeemoRDot"
+BuffName = L0_1
+L0_1 = "r:Teemo_E_Poison"
+AutoBuffActivateEffect = L0_1
+L0_1 = "C_BUFFBONE_GLB_HEAD_LOC"
+AutoBuffActivateAttachBoneName = L0_1
+L0_1 = {}
+L1_1 = "TeemoSkin08"
+L0_1[1] = L1_1
+SpellFXOverrideSkins = L0_1
+L0_1 = {}
+L1_1 = "TeemoSkin08"
+L0_1[1] = L1_1
+SpellVOOverrideSkins = L0_1

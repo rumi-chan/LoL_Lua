@@ -1,0 +1,9 @@
+local L0_1, L1_1
+L0_1 = "3053_Steraks_Gage.dds"
+BuffTextureName = L0_1
+L0_1 = "PrimalTalonEnrage"
+BuffName = L0_1
+L0_1 = "Item_PrimalTalon_Enrage_Buff.troy"
+AutoBuffActivateEffect = L0_1
+L0_1 = "C_BUFFBONE_GLB_CENTER_LOC"
+AutoBuffActivateAttachBoneName = L0_1

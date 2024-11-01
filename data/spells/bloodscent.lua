@@ -1,0 +1,27 @@
+local L0_1, L1_1, L2_1, L3_1, L4_1, L5_1
+L0_1 = true
+NotSingleTargetSpell = L0_1
+L0_1 = true
+DoesntTriggerSpellCasts = L0_1
+L0_1 = "Wolfman_Bloodscent.dds"
+BuffTextureName = L0_1
+L0_1 = "Haste"
+BuffName = L0_1
+L0_1 = {}
+L1_1 = 45
+L2_1 = 40
+L3_1 = 35
+L4_1 = 30
+L5_1 = 25
+L0_1[1] = L1_1
+L0_1[2] = L2_1
+L0_1[3] = L3_1
+L0_1[4] = L4_1
+L0_1[5] = L5_1
+AutoCooldownByLevel = L0_1
+L0_1 = {}
+L1_1 = "HyenaWarwick"
+L0_1[1] = L1_1
+SpellVOOverrideSkins = L0_1
+L0_1 = true
+TriggersSpellCasts = L0_1

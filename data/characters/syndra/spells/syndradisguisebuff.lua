@@ -1,0 +1,11 @@
+local L0_1, L1_1
+L0_1 = true
+NotSingleTargetSpell = L0_1
+L0_1 = true
+DoesntTriggerSpellCasts = L0_1
+L0_1 = "ASSETS/Spells/Icons2D/DrMundo_BurningAgony.dds"
+BuffTextureName = L0_1
+L0_1 = "BurningAgony"
+BuffName = L0_1
+L0_1 = true
+IsDamagingSpell = L0_1

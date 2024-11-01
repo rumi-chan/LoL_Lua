@@ -1,0 +1,13 @@
+local L0_1, L1_1
+L0_1 = "3025_Frozen_Fist.dds"
+BuffTextureName = L0_1
+L0_1 = "ItemFrozenFist"
+BuffName = L0_1
+L0_1 = "Item_FrozenGauntlet_Glow_buf.troy"
+AutoBuffActivateEffect = L0_1
+L0_1 = "L_Buffbone_Glb_Hand_Loc"
+AutoBuffActivateAttachBoneName = L0_1
+L0_1 = "Item_FrozenGauntlet_Glow_buf.troy"
+AutoBuffActivateEffect2 = L0_1
+L0_1 = "R_Buffbone_Glb_Hand_Loc"
+AutoBuffActivateAttachBoneName2 = L0_1

@@ -1,0 +1,15 @@
+local L0_1, L1_1
+L0_1 = true
+NotSingleTargetSpell = L0_1
+L0_1 = false
+DoesntTriggerSpellCasts = L0_1
+L0_1 = "ASSETS/Characters/Ornn/HUD/Icons2D/OrnnE.dds"
+BuffTextureName = L0_1
+L0_1 = "OrnnE"
+BuffName = L0_1
+L0_1 = 0.5
+SpellDamageRatio = L0_1
+L0_1 = true
+NonDispellable = L0_1
+L0_1 = true
+IsDamagingSpell = L0_1

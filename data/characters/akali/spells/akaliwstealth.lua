@@ -1,0 +1,9 @@
+local L0_1, L1_1
+L0_1 = "ASSETS/Characters/Akali/HUD/Icons2D/Akali_W.dds"
+BuffTextureName = L0_1
+L0_1 = "AkaliW"
+BuffName = L0_1
+L0_1 = {}
+L1_1 = "Akaliskin07"
+L0_1[1] = L1_1
+SpellFXOverrideSkins = L0_1

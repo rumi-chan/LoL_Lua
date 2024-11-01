@@ -1,0 +1,13 @@
+local L0_1, L1_1
+L0_1 = "ASSETS/Characters/Lux/HUD/Icons2D/LuxIlluminatingFraulein.dds"
+BuffTextureName = L0_1
+L0_1 = "LuxIlluminatingFraulein"
+BuffName = L0_1
+L0_1 = "r:Lux_P_debuff"
+AutoBuffActivateEffect = L0_1
+L0_1 = "C_Buffbone_GLb_Head_Loc"
+AutoBuffActivateAttachBoneName = L0_1
+L0_1 = {}
+L1_1 = "SteelLegionLux"
+L0_1[1] = L1_1
+SpellFXOverrideSkins = L0_1

@@ -1,0 +1,9 @@
+local L0_1, L1_1
+L0_1 = "Burning.dds"
+BuffTextureName = L0_1
+L0_1 = "DragonBurning"
+BuffName = L0_1
+L0_1 = "Cape_neg_buf.troy"
+AutoBuffActivateEffect = L0_1
+L0_1 = true
+IsDeathRecapSource = L0_1

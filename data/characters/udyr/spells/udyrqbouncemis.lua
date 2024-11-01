@@ -1,0 +1,26 @@
+local L0_1, L1_1, L2_1, L3_1, L4_1, L5_1, L6_1
+L0_1 = true
+NotSingleTargetSpell = L0_1
+L0_1 = true
+DoesntBreakShields = L0_1
+L0_1 = true
+DoesntTriggerSpellCasts = L0_1
+L0_1 = {}
+L1_1 = {}
+L2_1 = 1
+L3_1 = 1
+L4_1 = 1
+L5_1 = 1
+L6_1 = 1
+L1_1[1] = L2_1
+L1_1[2] = L3_1
+L1_1[3] = L4_1
+L1_1[4] = L5_1
+L1_1[5] = L6_1
+L0_1.MaximumHits = L1_1
+L0_1.CanHitCaster = 0
+L0_1.CanHitSameTarget = 0
+L0_1.CanHitSameTargetConsecutively = 0
+L0_1.CanHitEnemies = 1
+L0_1.CanHitFriends = 0
+ChainMissileParameters = L0_1

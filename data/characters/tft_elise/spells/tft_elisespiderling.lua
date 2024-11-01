@@ -1,0 +1,15 @@
+local L0_1, L1_1
+L0_1 = true
+NotSingleTargetSpell = L0_1
+L0_1 = false
+DoesntBreakShields = L0_1
+L0_1 = false
+DoesntTriggerSpellCasts = L0_1
+L0_1 = true
+CastingBreaksStealth = L0_1
+L0_1 = "ASSETS/Characters/TFT_Elise/HUD/Icons2D/TFT_ElisePassive.dds"
+BuffTextureName = L0_1
+L0_1 = "BuffTFT_EliseSpider"
+BuffName = L0_1
+L0_1 = false
+IsDamagingSpell = L0_1
